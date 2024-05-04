@@ -132,10 +132,11 @@ h1, h2{
 
 .links-bio-linha a{
     width: 100%;
+    height: 60px;
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 30px;
+    gap: 15px;
     margin-bottom: 20px ;
     color: #ffffff;
     font-size: 40px;
@@ -143,8 +144,6 @@ h1, h2{
     text-decoration: none;
     border-radius: 40px;
     background-color: #0200006e;
-    padding: 10px;
-    height: 80px;
 }
 
 .links-bio-linha a:hover{
@@ -209,11 +208,11 @@ h1, h2{
 .tabela-estatisticas table td{
     font-weight: bold;
     text-align: center;
-    padding: 30px;
+    padding: 15px;
 }
 
 .tabela-estatisticas table th{
-    padding: 30px;
+    padding: 20px;
     text-shadow: 2px 2px 1px #000000;
 }
 
